@@ -17,4 +17,10 @@
 {"_id":"npp-age","Name":"age","Links":{"self":{"id":"npp-age","href":"http://localhost:22400/code-lists/npp-age"},"codes":{"href":"http://localhost:22400/code-lists/npp-age/codes"}}}
 {"_id":"npp-projection-type","Name":"projectiontype","Links":{"self":{"id":"npp-projection-type","href":"http://localhost:22400/code-lists/npp-projection-type"},"codes":{"href":"http://localhost:22400/code-lists/npp-projection-type/codes"}}}
 {"_id":"npp-population-measure","Name":"populationmeasure","Links":{"self":{"id":"npp-population-measure","href":"http://localhost:22400/code-lists/npp-population-measure"},"codes":{"href":"http://localhost:22400/code-lists/npp-population-measure/codes"}}}
-
+{"_id":"migration-age","Name":"age","Links":{"self":{"id":"migration-age","href":"http://localhost:22400/code-lists/migration-age"},"codes":{"href":"http://localhost:22400/code-lists/migration-age/codes"}}}
+{"_id":"migration-citizenshipgroup","Name":"citizenshipgroup","Links":{"self":{"id":"migration-citizenshipgroup","href":"http://localhost:22400/code-lists/migration-citizenshipgroup"},"codes":{"href":"http://localhost:22400/code-lists/migration-citizenshipgroup/codes"}}}
+{"_id":"migration-country","Name":"country","Links":{"self":{"id":"migration-country","href":"http://localhost:22400/code-lists/migration-country"},"codes":{"href":"http://localhost:22400/code-lists/migration-country/codes"}}}
+{"_id":"migration-flow","Name":"flow","Links":{"self":{"id":"migration-flow","href":"http://localhost:22400/code-lists/migration-flow"},"codes":{"href":"http://localhost:22400/code-lists/migration-flow/codes"}}}
+{"_id":"migration-sex","Name":"sex","Links":{"self":{"id":"migration-sex","href":"http://localhost:22400/code-lists/migration-sex"},"codes":{"href":"http://localhost:22400/code-lists/migration-sex/codes"}}}
+{"_id":"police-force-geography","Name":"geography","Links":{"self":{"id":"police-force-geography","href":"http://localhost:22400/code-lists/police-force-geography"},"codes":{"href":"http://localhost:22400/code-lists/police-force-geography/codes"}}}
+{"_id":"crime-offence","Name":"offence","Links":{"self":{"id":"crime-offence","href":"http://localhost:22400/code-lists/crime-offence"},"codes":{"href":"http://localhost:22400/code-lists/crime-offence/codes"}}}
